@@ -7,7 +7,7 @@ A customizable startup banner maker for **Termux**. Personalize your username, t
 <h2 align="center">📸 Project Screenshot</h2>
 
 <p align="center">
-  <img src="screenshot/dragon-banner.jpeg" width="850" alt="Dragon Termux Banner">
+  <img src="screenshot/dragon-banner.jpeg" width="650" alt="Dragon Termux Banner">
 </p>
 
 ## ✨ Features
