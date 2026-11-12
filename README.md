@@ -4,6 +4,12 @@ A customizable startup banner maker for **Termux**. Personalize your username, t
 
 > This project customizes your local Termux shell appearance. It does not perform hacking or access other devices.
 
+<h2 align="center">📸 Project Screenshot</h2>
+
+<p align="center">
+  <img src="screenshot/dragon-banner.jpeg" width="850" alt="Dragon Termux Banner">
+</p>
+
 ## ✨ Features
 
 - Create or update your Termux startup banner.
